@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553988923055",
+    "firebase_url": "https://lsd-tripper.firebaseio.com",
+    "project_id": "lsd-tripper",
+    "storage_bucket": "lsd-tripper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553988923055:android:bab62ab9748b1275",
+        "android_client_info": {
+          "package_name": "com.example.lsd_trippers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553988923055-g7c8qiktrgvvtnuhmjp9j7smgdv01er5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lsd_trippers",
+            "certificate_hash": "fcbbb5fd0a3abed950666f9d09b643b14da34918"
+          }
+        },
+        {
+          "client_id": "553988923055-ghagb0ds4bfrerahkardbrbn4af4quul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-hY5KJqoxsGSLgmy3XqckxcRkz8_6zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553988923055-ghagb0ds4bfrerahkardbrbn4af4quul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
